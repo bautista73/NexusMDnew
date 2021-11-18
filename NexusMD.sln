@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexusMD.MVC", "NexusMD.MVC\NexusMD.MVC.csproj", "{BC6AF349-7C33-4A75-822F-372A35BEDDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6AF349-7C33-4A75-822F-372A35BEDDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6AF349-7C33-4A75-822F-372A35BEDDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6AF349-7C33-4A75-822F-372A35BEDDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6AF349-7C33-4A75-822F-372A35BEDDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E3D5F4-B66F-423D-BA39-50083D39E76D}
+	EndGlobalSection
+EndGlobal
